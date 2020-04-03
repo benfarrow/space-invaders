@@ -1,0 +1,28 @@
+#background{
+    background-image: url("../images/spaceMoving.gif");
+    height: 640px;
+    width: 960px;
+    transform: rotate(180deg);
+}
+
+#player{
+    background-image: url("../images/spaceShip.png");
+    height: 50px;
+    width: 61px;
+    position: absolute;
+    top: 550px;
+    left: 500px;
+}
+
+.enemy{
+    background-image: url("../images/enemy.jpg");
+    height: 50px;
+    width: 61px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+}
+
+
+
+
